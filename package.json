@@ -1,0 +1,19 @@
+{
+  "name": "minicrud",
+  "version": "1.0.0",
+  "description": "Mini CRUD project with MondoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreashansson/miniCRUD.git"
+  },
+  "author": "Andreas Hansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreashansson/miniCRUD/issues"
+  },
+  "homepage": "https://github.com/andreashansson/miniCRUD#readme"
+}
