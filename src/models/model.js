@@ -1,11 +1,11 @@
 var mongoose = require('mongoose');
 
-var animalSchema = new mongoose.Schema({
+var personSchema = new mongoose.Schema({
 	name: String,
 	color: String,
 	fed: Boolean
 });
 
-var model = mongoose.model('Animal', animalSchema);
+var model = mongoose.model('Person', personSchema);
 
 module.exports = model;
